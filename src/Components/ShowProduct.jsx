@@ -1,5 +1,3 @@
-//A product page i have not import this file anywhere....
-
 import React from "react";
 import { useState } from "react";
 
